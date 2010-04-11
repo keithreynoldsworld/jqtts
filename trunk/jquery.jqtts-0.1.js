@@ -1,3 +1,15 @@
+/*!
+   jQuery Text-to-Speech plugin
+   --------------------------------------------
+   http://code.google.com/p/jqtts/
+
+   Copyright (c) 2010, Kevin Hoang Le. All rights reserved.
+   Code provided under the MIT License:
+   http://www.opensource.org/licenses/mit-license.html
+
+   v0.1
+*/
+
 (function($) {
     $.fn.extend({
         jtts: function(options) {
