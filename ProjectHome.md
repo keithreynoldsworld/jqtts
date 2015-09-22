@@ -1,0 +1,1 @@
+This jQuery plugin, jqtts, provides an easy way to voice-enabling web applications that run on all grade A browsers.
